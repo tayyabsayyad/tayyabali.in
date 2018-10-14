@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tayyabali Sayyad</title>
+    <link>http://tayyabali.in/posts/</link>
+    <description>Recent content in Posts on Tayyabali Sayyad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Sep 2018 14:03:59 +0530</lastBuildDate>
+    
+	<atom:link href="http://tayyabali.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Favourite Books</title>
+      <link>http://tayyabali.in/posts/books/</link>
+      <pubDate>Wed, 19 Sep 2018 14:03:59 +0530</pubDate>
+      
+      <guid>http://tayyabali.in/posts/books/</guid>
+      <description> The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday The Leader Who Had No Title By Robin Sharma Mastery By Robert Green Inspired by the book Tribes: We Need You to Lead Us The 10X Rule: The Only Difference Between Success and Failure 6.  </description>
+    </item>
+    
+    <item>
+      <title>Favourite Quotes</title>
+      <link>http://tayyabali.in/posts/quotes/</link>
+      <pubDate>Wed, 19 Sep 2018 14:03:59 +0530</pubDate>
+      
+      <guid>http://tayyabali.in/posts/quotes/</guid>
+      <description>Work hard in silence, let your success be your noise – Frank Ocean
+ If you will live like no one else, later you can live like no one else – Dave Ramsey
+ If you don’t have time to read, you don’t have the time (or the tools) to write. – Stephen King
+ You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.</description>
+    </item>
+    
+    <item>
+      <title>Liked Videos</title>
+      <link>http://tayyabali.in/posts/videos/</link>
+      <pubDate>Wed, 19 Sep 2018 14:03:59 +0530</pubDate>
+      
+      <guid>http://tayyabali.in/posts/videos/</guid>
+      <description> TEDx Talk: Solving Every Problem in the World with Education    Why you will fail to have a great career | Larry Smith | TEDxUW    Why You Will Fail To Solve Important Problems | Larry Smith, University of Waterloo     </description>
+    </item>
+    
+  </channel>
+</rss>

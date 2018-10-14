@@ -1,0 +1,75 @@
+baseURL = "http://tayyabali.in/"
+languageCode = "en-us"
+title = "Tayyabali Sayyad"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+paginate = 5
+
+rssLimit = 20             # Limit Entry Count to Rss file
+disqusShortname = ""      # disqus_shortname
+googleAnalytics = "UA-59503205-1"      # UA-XXXXXXXX-X
+copyright = ""
+
+defaultContentLanguage = "en"           # Default language to use
+[languages.en]
+  languageCode = "en"
+
+[author]                  # essential
+  name = "Tayyabali Sayyad"
+
+[sitemap]                 # essential
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]             # config your menu
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 40
+  identifier = "posts"
+  url = "/posts/"
+[[menu.main]]
+  name = "My Open Source Blog"
+  weight = 50
+  url = "https://www.opensourcetutorials.in"
+
+[params]
+  avatar = "tayyabali.jpeg"
+  author = "Tayyabali Sayyad"
+  description = "Personal Blog"
+
+  since = "2017"            # Site creation time         
+  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
+
+    # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+    dateFormatToUse = "2006-01-02"
+
+    # front matter archetypes/default.md
+    # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+    toc = true
+    photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe
+
+    # Link custom CSS and JS assets
+    #   (relative to /static/css and /static/js respectively)
+    customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+    customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+
+    [params.social]
+      Github        = "tayyabsayyad"
+      Email         = "tayyabsayyad@gmail.com"
+      Twitter       = "tayyabsayyad"
+      LinkedIn      = "tayyabsayyad"
+    # Stackoverflow = "tayyabsayyad"
+      Medium        = "tayyabalisayyad"
+    # Telegram      = "username"
