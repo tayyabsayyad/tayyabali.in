@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tayyabali.in/posts/origami/</loc>
+    <lastmod>2018-10-14T14:03:59+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://tayyabali.in/posts/books/</loc>
     <lastmod>2018-09-19T14:03:59+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,6 +31,13 @@
   </url>
   
   <url>
+    <loc>http://tayyabali.in/</loc>
+    <lastmod>2018-10-11T14:03:59+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://tayyabali.in/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -31,20 +45,13 @@
   
   <url>
     <loc>http://tayyabali.in/posts/</loc>
-    <lastmod>2018-09-19T14:03:59+05:30</lastmod>
+    <lastmod>2018-10-14T14:03:59+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tayyabali.in/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tayyabali.in/</loc>
-    <lastmod>2018-09-19T14:03:59+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

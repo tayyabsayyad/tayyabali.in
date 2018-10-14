@@ -11,7 +11,7 @@ theme = "hugo-sustain"
 paginate = 5
 
 rssLimit = 20             # Limit Entry Count to Rss file
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "tayyabali"      # disqus_shortname
 googleAnalytics = "UA-59503205-1"      # UA-XXXXXXXX-X
 copyright = ""
 
@@ -48,7 +48,7 @@ defaultContentLanguage = "en"           # Default language to use
   author = "Tayyabali Sayyad"
   description = "Personal Blog"
 
-  since = "2017"            # Site creation time         
+  since = "2017"            # Site creation time
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 

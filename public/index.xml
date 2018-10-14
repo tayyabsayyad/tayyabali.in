@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tayyabali Sayyad</title>
+    <title>Home Page on Tayyabali Sayyad</title>
     <link>http://tayyabali.in/</link>
-    <description>Recent content on Tayyabali Sayyad</description>
+    <description>Recent content in Home Page on Tayyabali Sayyad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Sep 2018 14:03:59 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 14:03:59 +0530</lastBuildDate>
     
 	<atom:link href="http://tayyabali.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Origami Exhibition Visit - Thane, Mumbai.</title>
+      <link>http://tayyabali.in/posts/origami/</link>
+      <pubDate>Sun, 14 Oct 2018 14:03:59 +0530</pubDate>
+      
+      <guid>http://tayyabali.in/posts/origami/</guid>
+      <description>I visited an exhibition of Origami in Thane. It was organized by the Origami Thane group. Origami group’s intention to involve students into craft so that they become creative and stay away from the addiction to mobile phones.
+Few things about Origami 
+ Ori meaning &amp;ldquo;folding&amp;rdquo;, and kami meaning &amp;ldquo;paper&amp;rdquo; Associated Japanese culture Folding paper to transform into a finished sculpture  
+  </description>
+    </item>
     
     <item>
       <title>Favourite Books</title>
@@ -17,7 +29,7 @@
       <pubDate>Wed, 19 Sep 2018 14:03:59 +0530</pubDate>
       
       <guid>http://tayyabali.in/posts/books/</guid>
-      <description> The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday The Leader Who Had No Title By Robin Sharma Mastery By Robert Green Inspired by the book Tribes: We Need You to Lead Us The 10X Rule: The Only Difference Between Success and Failure 6.  </description>
+      <description> The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday The Leader Who Had No Title By Robin Sharma Mastery By Robert Green Inspired by the book Tribes: We Need You to Lead Us The 10X Rule: The Only Difference Between Success and Failure  </description>
     </item>
     
     <item>
