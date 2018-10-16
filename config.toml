@@ -12,8 +12,8 @@ paginate = 5
 
 rssLimit = 20             # Limit Entry Count to Rss file
 disqusShortname = "tayyabali"      # disqus_shortname
-googleAnalytics = "UA-59503205-1"      # UA-XXXXXXXX-X
-copyright = ""
+googleAnalytics = "UA-105092434-1"      # UA-XXXXXXXX-X
+copyright = "Tayyabali"
 
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
@@ -39,12 +39,12 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "posts"
   url = "/posts/"
 [[menu.main]]
-  name = "My Open Source Blog"
+  name = "Open Source Blog"
   weight = 50
   url = "https://www.opensourcetutorials.in"
 
 [params]
-  avatar = "tayyabali.jpeg"
+  avatar = "tayyab.png"
   author = "Tayyabali Sayyad"
   description = "Personal Blog"
 
