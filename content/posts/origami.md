@@ -2,7 +2,7 @@
 title: "Origami Exhibition Visit - Thane, Mumbai."
 date: 2018-10-14T14:03:59+05:30
 draft: false
-weight: 20
+weight: 60
 ---
 
 I visited an exhibition of Origami in Thane. It was organized by the Origami Thane group. Origami group’s intention to involve students into craft so that they become creative and stay away from the addiction to mobile phones.

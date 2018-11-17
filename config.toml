@@ -1,4 +1,4 @@
-baseURL = "http://tayyabali.in/"
+baseURL = "https://tayyabali.in/"
 languageCode = "en-us"
 title = "Tayyabali Sayyad"
 enableRobotsTXT = true
@@ -12,7 +12,8 @@ paginate = 5
 
 rssLimit = 20             # Limit Entry Count to Rss file
 disqusShortname = "tayyabali"      # disqus_shortname
-googleAnalytics = "UA-105092434-1"      # UA-XXXXXXXX-X
+googleAnalytics = "UA-105092434-1"
+    # UA-XXXXXXXX-X
 copyright = "Tayyabali"
 
 defaultContentLanguage = "en"           # Default language to use
@@ -73,3 +74,4 @@ defaultContentLanguage = "en"           # Default language to use
     # Stackoverflow = "tayyabsayyad"
       Medium        = "tayyabalisayyad"
     # Telegram      = "username"
+
