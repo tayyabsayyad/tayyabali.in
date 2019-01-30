@@ -2,7 +2,6 @@
 title: "Favourite Quotes"
 date: 2018-09-19T14:03:59+05:30
 draft: false
-menu: "main"
 weight: 20
 ---
 

@@ -39,10 +39,28 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "posts"
   url = "/posts/"
+
+[[menu.main]]
+  name = "Quotes"
+  weight = 40
+  identifier = "quotes"
+  url = "/posts/quotes"
+
+[[menu.main]]
+  name = "Books"
+  weight = 40
+  identifier = "books"
+  url = "/posts/Books"
+
 [[menu.main]]
   name = "Open Source Blog"
   weight = 50
   url = "https://www.opensourcetutorials.in"
+
+[[menu.main]]
+  name = "GIS Blog"
+  weight = 50
+  url = "https://gis.opensourcetutorials.in"
 
 [params]
   avatar = "tayyab.png"
