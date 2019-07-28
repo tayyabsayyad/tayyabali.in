@@ -58,9 +58,9 @@ defaultContentLanguage = "en"           # Default language to use
   url = "https://www.opensourcetutorials.in"
 
 [[menu.main]]
-  name = "GIS Blog"
+  name = "Research"
   weight = 50
-  url = "https://gis.opensourcetutorials.in"
+  url = "https://tayyabsayyad.github.io/"
 
 [params]
   avatar = "tayyab.png"
@@ -91,4 +91,4 @@ defaultContentLanguage = "en"           # Default language to use
       LinkedIn      = "tayyabsayyad"
     # Stackoverflow = "tayyabsayyad"
       Medium        = "tayyabalisayyad"
-    # Telegram      = "username"
+      Telegram      = "username"
