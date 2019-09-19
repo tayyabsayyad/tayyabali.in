@@ -10,3 +10,6 @@ weight: 20
 4. [Inspired by the book Tribes: We Need You to Lead Us](https://amzn.to/2S0LtYT)
 5. [The 10X Rule: The Only Difference Between Success and Failure](https://amzn.to/2UtdEfH)
 6. [The 80/20 Principle: The Secret to Success by Achieving More with Less]( https://amzn.to/2RrPKiB)
+7. [Digital Minimalism :On Living with Better with Less technology - Cal New Port](https://www.audible.in/pd/Digital-Minimalism-Audiobook/B07N12TVTS)
+8. [The Compound Effect Multiply Your Success One Simple Step at a Time](https://www.amazon.com/Compound-Effect-Multiply-Success-Simple/dp/B07MWCVQ1T)
+9. [The Daily Stoic 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.audible.in/pd/The-Daily-Stoic-Audiobook/B079B59VKY)

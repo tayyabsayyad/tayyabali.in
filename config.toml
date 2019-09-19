@@ -58,9 +58,9 @@ defaultContentLanguage = "en"           # Default language to use
   url = "https://www.opensourcetutorials.in"
 
 [[menu.main]]
-  name = "Research"
+  name = "Reference Code"
   weight = 50
-  url = "https://tayyabsayyad.github.io/"
+  url = "/posts/code"
 
 [params]
   avatar = "tayyab.png"
