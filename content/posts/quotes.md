@@ -27,3 +27,23 @@ weight: 20
 +  Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that. — Martin Luther King Jr.
 
 +  I will permit no man to narrow and degrade my soul by making me hate him. — Booker T. Washington
+
++ Until we have begun to go without them, we fail to realize how unnecessary many things are. We’ve been using them not because we needed them but because we had them - Seneca
+
++ If a man knows not to which port he sails, no wind is favorable. - Seneca
+
++ Associate with people who are likely to improve you. - Seneca
+
++ The best answer to anger is silence - Marcus Aurelius
+
++ I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinions of himself than on the opinions of others. - Marcus Aurelius
+
++ You have power over your mind – not outside events. Realize this, and you will find strength. - Marcus Aurelius
+
++ The best revenge is not to be like your enemy.  - Marcus Aurelius
+
++ If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.- Marcus Aurelius
+
++ If you didn’t learn these things in order to demonstrate them in practice, what did you learn them for? - Marcus Aurelius
+
++ “A cucumber is bitter.” Throw it away. “There are briars in the road.” Turn aside from them. This is enough. Do not add, “And why were such things made in the world?” - Marcus Aurelius
