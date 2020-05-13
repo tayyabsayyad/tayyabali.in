@@ -1,9 +1,18 @@
 ---
-title: "Favourite Books"
+title: "Books"
 date: 2018-09-19T14:03:59+05:30
 draft: false
 weight: 20
 ---
+
+# Coauthored Books
++ [11th Standard, Information Technology, Maharashtra State Board of Education 2019](http://cart.ebalbharati.in/BalBooks/pdfs/1103000662.pdf)
+
+
++ 12th Standard, [Arts](http://cart.ebalbharati.in/BalBooks/pdfs/1203010498.pdf),[Science](http://cart.ebalbharati.in/BalBooks/pdfs/1203010500.pdf) and Commerce Information Technology, Maharashtra State board of Education, 2020.
+
+
+# My Favourite Books
 1. [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday](https://amzn.to/2Uu9NPz)
 2. [The Leader Who Had No Title By Robin Sharma](https://amzn.to/2Bb85v7)
 3. [Mastery By - Robert Green](https://amzn.to/2DK0qWm)

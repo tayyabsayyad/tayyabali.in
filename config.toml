@@ -30,36 +30,46 @@ defaultContentLanguage = "en"           # Default language to use
 
 [[menu.main]]             # config your menu
   name = "Home"
-  weight = 10
+  weight = 1
   identifier = "home"
   url = "/"
 
 [[menu.main]]
   name = "Posts"
-  weight = 40
+  weight = 2
   identifier = "posts"
   url = "/posts/"
 
 [[menu.main]]
   name = "Quotes"
-  weight = 40
+  weight = 3
   identifier = "quotes"
   url = "/posts/quotes"
 
 [[menu.main]]
   name = "Books"
-  weight = 40
+  weight = 4
   identifier = "books"
   url = "/posts/Books"
 
 [[menu.main]]
-  name = "Open Source Blog"
-  weight = 50
+  name = "Blog"
+  weight = 5
   url = "https://www.opensourcetutorials.in"
 
 [[menu.main]]
+  name = "Projects"
+  weight = 5
+  url = "https://github.com/tayyabsayyad"
+
+  [[menu.main]]
+    name = "Certificates"
+    weight = 5
+    url = "/certificates/mycertificates"
+
+[[menu.main]]
   name = "Reference Code"
-  weight = 50
+  weight = 6
   url = "/posts/code"
 
 [params]
